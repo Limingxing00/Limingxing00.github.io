@@ -1,4 +1,4 @@
-import { Mail, Phone, MessageCircle } from 'lucide-react'
+import { Mail } from 'lucide-react'
 import { ScrollReveal } from '@/components/ScrollReveal'
 import { useI18n } from '@/lib/i18n'
 

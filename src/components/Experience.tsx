@@ -92,7 +92,7 @@ const EXPERIENCE_DATA: ExperiencePeriod[] = [
         descKey: 'exp_tongyi.project3.desc',
         links: [{ textKey: 'exp_tongyi.project3.link1.text', urlKey: 'exp_tongyi.project3.link1.url' }],
         videos: [
-          { path: '/videos/wan26-mv.mov', titleKey: 'exp_tongyi.project3.video.title' },
+          { path: '/videos/wan26-mv.mp4', titleKey: 'exp_tongyi.project3.video.title' },
         ],
       },
       {

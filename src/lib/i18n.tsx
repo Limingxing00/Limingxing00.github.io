@@ -74,15 +74,15 @@ const translations: Record<string, Record<Lang, string>> = {
   'exp_gaode.role': { zh: '感知算法工程师->多模态理解算法工程师', en: 'Perception Algorithm Engineer -> Multimodal Understanding Algorithm Engineer' },
   'exp_gaode.date': { zh: '2022 - 2025', en: '2022 - 2025' },
   'exp_gaode.desc': {
-    zh: '在高德负责高精地图感知算法、VLM室内智能引导以及UGC内容建设，致力于打造领先的地图与导航体验。',
-    en: 'Responsible for HD map perception algorithms, VLM-based indoor smart guidance, and UGC content at AutoNavi, committed to building leading map and navigation experiences.',
+    zh: '在高德前期负责高精地图感知算法、后期负责基于VLM和AIGC的内容平台建设。',
+    en: 'Responsible for the development of HD map perception algorithms and the construction of content platforms based on VLM and AIGC.',
   },
 
   // 高德项目1：高精地图-感知算法
   'exp_gaode.project1.title': { zh: '高德高精地图-感知算法', en: 'AutoNavi HD Map - Perception Algorithm' },
   'exp_gaode.project1.desc': {
-    zh: '负责高精地图的感知算法研发，包括多传感器融合、目标检测与跟踪等核心技术，为自动驾驶提供高精度的地图数据支持。',
-    en: 'Led the development of perception algorithms for HD maps, including multi-sensor fusion, object detection and tracking, providing high-precision map data support for autonomous driving.',
+    zh: '负责高精地图的感知算法研发，包含语义分割、目标检测和实例分割等，为自动驾驶提供高精度的地图数据支持。',
+    en: 'Responsible for the development of HD map perception algorithms, including semantic segmentation, object detection, and instance segmentation, providing high-precision map data support for autonomous driving.',
   },
   'exp_gaode.project1.link1.text': { zh: '了解更多', en: 'Learn More' },
   'exp_gaode.project1.link1.url': { zh: '#', en: '#' },
@@ -92,19 +92,19 @@ const translations: Record<string, Record<Lang, string>> = {
   // 高德项目2：基于VLM的室内智能引导
   'exp_gaode.project2.title': { zh: '基于VLM的室内智能引导', en: 'VLM-based Indoor Smart Guidance' },
   'exp_gaode.project2.desc': {
-    zh: '基于视觉语言模型（VLM）开发室内智能引导系统，实现复杂室内环境下的精准导航与智能交互，提升用户在商场、机场等场景的导航体验。',
+    zh: '基于视觉重定位视觉语言模型（VLM）开发室内智能引导系统，实现复杂室内环境下的精准导航与智能交互，提升用户在商场、机场等场景的导航体验。',
     en: 'Developed an indoor smart guidance system based on Vision-Language Models (VLM), enabling precise navigation and intelligent interaction in complex indoor environments, enhancing user experience in malls, airports, and other scenarios.',
   },
   'exp_gaode.project2.link1.text': { zh: '了解更多', en: 'Learn More' },
   'exp_gaode.project2.link1.url': { zh: '#', en: '#' },
-  'exp_gaode.project2.video.title': { zh: 'VLM室内引导演示', en: 'VLM Indoor Guidance Demo' },
-  'exp_gaode.project2.video.title2': { zh: 'VLM室内引导演示2', en: 'VLM Indoor Guidance Demo 2' },
+  'exp_gaode.project2.video.title': { zh: '北京南站', en: 'Beijing South Station' },
+  'exp_gaode.project2.video.title2': { zh: '视觉重定位演示', en: 'Visual Relocalization Demo' },
 
   // 高德项目3：UGC内容-维基百科
   'exp_gaode.project3.title': { zh: '高德UGC内容-维基百科', en: 'AutoNavi UGC Content - Wikipedia' },
   'exp_gaode.project3.desc': {
-    zh: '主导高德UGC内容生态建设，打造地图领域的维基百科功能，允许用户贡献和编辑地点信息，丰富地图内容生态。',
-    en: 'Led the construction of AutoNavi UGC content ecosystem, creating a Wikipedia-like feature for maps, allowing users to contribute and edit location information, enriching the map content ecosystem.',
+    zh: '主导高德UGC内容生态建设，打造地图领域UGC的维基百科功能，丰富地图内容生态。',
+    en: "Lead the construction of Autonavi's UGC content ecosystem, create a Wikipedia function for UGC in the map field, and enrich the map content ecosystem.",
   },
   'exp_gaode.project3.link1.text': { zh: '了解更多', en: 'Learn More' },
   'exp_gaode.project3.link1.url': { zh: '#', en: '#' },

@@ -37,7 +37,7 @@ const EXPERIENCE_DATA: ExperiencePeriod[] = [
         id: 'gaode-hd-map',
         titleKey: 'exp_gaode.project1.title',
         descKey: 'exp_gaode.project1.desc',
-        links: [{ textKey: 'exp_gaode.project1.link1.text', urlKey: 'exp_gaode.project1.link1.url' }],
+        links: [],
         videos: [
           { path: '/videos/gaode-hd-map.mp4', titleKey: 'exp_gaode.project1.video.title' },
           { path: '/videos/gaode-hd-map2.mp4', titleKey: 'exp_gaode.project1.video.title2' },
@@ -47,7 +47,7 @@ const EXPERIENCE_DATA: ExperiencePeriod[] = [
         id: 'gaode-vlm-indoor',
         titleKey: 'exp_gaode.project2.title',
         descKey: 'exp_gaode.project2.desc',
-        links: [{ textKey: 'exp_gaode.project2.link1.text', urlKey: 'exp_gaode.project2.link1.url' }],
+        links: [],
         videos: [
           { path: '/videos/guidegpt.mp4', titleKey: 'exp_gaode.project2.video.title' },
           { path: '/videos/guidegpt2.mp4', titleKey: 'exp_gaode.project2.video.title2' },
@@ -57,7 +57,7 @@ const EXPERIENCE_DATA: ExperiencePeriod[] = [
         id: 'gaode-ugc-wiki',
         titleKey: 'exp_gaode.project3.title',
         descKey: 'exp_gaode.project3.desc',
-        links: [{ textKey: 'exp_gaode.project3.link1.text', urlKey: 'exp_gaode.project3.link1.url' }],
+        links: [],
         videos: [
           { path: '/videos/wiki-1.mp4', titleKey: 'exp_gaode.project3.video.title' },
           { path: '/videos/wiki-2.mp4', titleKey: 'exp_gaode.project3.video.title2' },
